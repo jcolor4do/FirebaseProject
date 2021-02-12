@@ -1,2 +1,2 @@
 # FirebaseProject
-hecho con html, javascript 
+página web
